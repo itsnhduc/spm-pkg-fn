@@ -1,0 +1,19 @@
+{
+  "name": "pkg-fn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsnhduc/pkg-fn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsnhduc/pkg-fn/issues"
+  },
+  "homepage": "https://github.com/itsnhduc/pkg-fn#readme"
+}
